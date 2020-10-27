@@ -1,0 +1,20 @@
+{
+    "Author": "Windows Azure Product Team Scripts",
+    "ContentSize": 14339,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-a-new-windows-azure-vm-image-based-on-a-stock-image-and-a-webpi-app/master/New-AzureVmImageWithWebPiApp.ps1",
+    "DownloadCount": 2276,
+    "Id": "Create-a-New-Windows-Azure-5369a432",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 384,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2013-9-3T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Creates a new Virtual Machine image based on a given stock image.  Installs an application from the Web Platform Installer.  The images is saved to the user's subscription to be used for provisioning future Virtual Machines.",
+    "Title": "Create a New Windows Azure VM Image Based on a Stock Image and a WebPI App",
+    "UpdatedDate": "2014-10-16T00:00:00",
+    "Url": "https://github.com/azureautomation/create-a-new-windows-azure-vm-image-based-on-a-stock-image-and-a-webpi-app",
+    "UserTags": "VM Lifecycle Management, Provisioning"
+}
